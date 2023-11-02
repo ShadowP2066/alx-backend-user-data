@@ -1,6 +1,8 @@
 # 0x00. Personal data
 `Back-end` `Authentification`
 
+![meme](./5c48d4f6d4dd8081eb48.png)
+
 ## Resources
 
 Read or watch:
